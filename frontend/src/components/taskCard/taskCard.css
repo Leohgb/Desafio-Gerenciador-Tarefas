@@ -1,0 +1,29 @@
+li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    background-color: #fff;
+    opacity: 0.8;
+    border-radius: 4px;
+    padding: 0 5px 0 5px;
+    justify-content: space-between;
+    margin-bottom: 5px;
+
+}
+
+li button {
+    font-size: 14px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+li h4 {
+    cursor: pointer;
+}
+
+li h4:hover {
+    text-decoration: underline;
+}

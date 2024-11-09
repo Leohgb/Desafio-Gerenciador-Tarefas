@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Estudar React",
+      "description": "Ler a documentação oficial e fazer alguns exemplos práticos",
+      "progress": "Pendente"
+    },
+    {
+      "name": "Implementar API de Tarefas",
+      "description": "Criar a API com Node.js e Express para gerenciamento de tarefas",
+      "progress": "Em progresso"
+    },
+    {
+      "name": "Revisar Projeto",
+      "description": "Passar pelo checklist de revisão final do projeto",
+      "progress": "Concluido"
+    }
+  ]
+  
