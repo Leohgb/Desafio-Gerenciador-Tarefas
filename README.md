@@ -106,5 +106,6 @@
   <li>Guia de como utilizar as validações do <a href="https://dev.to/franciscomendes10866/schema-validation-with-zod-and-expressjs-111p">Zod</li>
   <li>Guia de como criar schemas e fazer validações com o <a href="https://blog.logrocket.com/schema-validation-typescript-zod/">Zod</li>
     <li>Video de como criar um modal flexível em<a href="https://www.youtube.com/watch?v=lIPhz8SlwAg">React</li>
+        <li>Referências e soluções de problemas no <a href="https://stackoverflow.com/">Stack Overflow</a></li>
   <li>Tutoriais e referências no <a href="https://developer.mozilla.org/">MDN Web Docs</a></li>
 </ul>
