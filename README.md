@@ -96,6 +96,7 @@
   <li>Documentação do <a href="https://www.sqlite.org/docs.html">SQLite</a></li>
   <li>Documentação da <a href="https://react.dev/">React</a></li>
   <li>Video de como criar projeto express com o typescript <a href="https://www.youtube.com/watch?v=mfrz_kDRPNk">Express</li>
+    <li>Video de como instalar e aplicar o prettier e o eslint no projeto <a href="https://www.youtube.com/watch?v=RO3l_xy7GeM">Eslint e Prettier</li>
   <li>Guia de como utilizar o Promises para evitar erros na aplicação com o <a href="https://medium.com/@xiaominghu19922/proper-error-handling-in-express-server-with-typescript-8cd4ffb67188">Express</a></li>
   <li>Guias de TypeScript, Zod, ESLint, Prettier e Swagger</li>
   <li>Guia de como criar documentação com o <a href="https://medium.com/@sagiweizmann/express-to-impress-documenting-apis-with-swagger-3744e95c1870">Swagger</li>
@@ -104,5 +105,6 @@
   <li>Guia de como utilizar as validações do <a href="https://dev.to/osalumense/validating-request-data-in-expressjs-using-zod-a-comprehensive-guide-3a0j">Zod</li>
   <li>Guia de como utilizar as validações do <a href="https://dev.to/franciscomendes10866/schema-validation-with-zod-and-expressjs-111p">Zod</li>
   <li>Guia de como criar schemas e fazer validações com o <a href="https://blog.logrocket.com/schema-validation-typescript-zod/">Zod</li>
+    <li>Video de como criar um modal flexível em<a href="https://www.youtube.com/watch?v=lIPhz8SlwAg">React</li>
   <li>Tutoriais e referências no <a href="https://developer.mozilla.org/">MDN Web Docs</a></li>
 </ul>
